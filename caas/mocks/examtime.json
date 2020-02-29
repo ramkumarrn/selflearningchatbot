@@ -1,0 +1,35 @@
+{
+"display":"List",
+"examtime":[
+	{
+		"subject"        : "Maths",
+		"room no"        : "b2",
+		"REGID"		     : 555000,
+		"Date"	         : "20/05/2018"
+	},
+	{
+		"subject"        : "Physics",
+		"room no"        : "b1",
+		"REGID"		     : 555000,
+		"Date"	         : "21/05/2018"
+	},
+	{
+		"subject"        : "Chemistry",
+		"room no"        : "b3",
+		"REGID"		     : 555000,
+		"Date"	         : "22/05/2018"
+	},
+	{
+		"subject"        : "Botony",
+		"room no"        : "b4",
+		"REGID"		     : 555000,
+		"Date"	         : "23/05/2018"
+	},
+	{
+		"subject"        : "Zoology",
+		"room no"        : "b5",
+		"REGID"		     : 555000,
+		"Date"	         : "24/05/2018"
+	}
+		 ]
+}

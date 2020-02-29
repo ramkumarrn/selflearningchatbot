@@ -1,0 +1,7 @@
+{
+  "name": "HackBot",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
