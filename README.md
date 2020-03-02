@@ -6,7 +6,7 @@ Lets take an example of any general service desk, it is available in all corpora
 
 ### **Summary**
 
-An hybrid chatbot application and an admin application portal has been developed for mattermost.Its an self learning supervised chatbot where an admin can train dataset for the user's keyword or queries with  multiple source types(Api,Crawl,Text,Link,Docs) to return the response to the user with quicker turn around time and faster time to production.
+An hybrid chatbot application and an admin application portal and launch pad has been developed.Its an self learning supervised chatbot where an admin can train dataset for the user's keyword or queries with  multiple source types(Api,Crawl,Text,Link,Docs) to return the response to the user with quicker turn around time and faster time to production.
 
 Its developed as an Microservice architecure pattern and created chatbot as a service(CaaS) where we can utilise it for multiple project in an organisation.
 
