@@ -1,5 +1,5 @@
 # Self Learning Supervised Chatbot
-![](logo.png)
+![]
 
 ### **Problem Statement**
 Lets take an example of any general service desk, it is available in all corporate functions and it is largely powered by HUMANS. This leads to a common problem, which is scalability, turn around time, resource intensive & resolving common problems over and over again.
